@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![TokenPhage](https://api.tokenphage.com/badge/gd-dg)
+[![My AI coding usage](https://srctyff5.us-east.insforge.app/functions/tokentracker-embed-svg?user_id=0688d60e-42c6-4123-a835-b9101765d11c&theme=dark)](https://www.tokentracker.cc/u/0688d60e-42c6-4123-a835-b9101765d11c?ref=readme)
